@@ -29,7 +29,7 @@
     <encoding>UTF-8</encoding>
     <scala.tools.version>2.10</scala.tools.version>
     <scala.version>2.10.4</scala.version>
-    <spark.version>1.4.1</spark.version>
+    <spark.version>1.5.2</spark.version>
     <utils.version>0.2.3</utils.version>
   </properties>
 
